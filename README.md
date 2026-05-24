@@ -4,12 +4,9 @@ A production-grade Android healthcare companion app built with **Kotlin**, **Jet
 
 ---
 
-## Screenshots
-
 | Home Dashboard | Vitals Tracker | Medication Detail |
 |---|---|---|
-| *Add screenshots here* | *Add screenshots here* | *Add screenshots here* |
-
+| <img src="assets/home.png" width="250"/> | <img src="assets/vitals.png" width="250"/> | <img src="assets/medication.png" width="250"/> |
 ---
 
 ## Features
@@ -82,7 +79,7 @@ app/src/main/java/com/meditrack/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/meditrack.git
+   git clone https://github.com/Dhanush-Palani-Vijay-Kumari/MediTrack.git
    cd meditrack
    ```
 

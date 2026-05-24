@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediTrack</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_medications">Meds</string>
+    <string name="tab_vitals">Vitals</string>
+    <string name="tab_appointments">Appts</string>
+    <string name="tab_profile">Profile</string>
+    <string name="add_medication">Add medication</string>
+    <string name="add_appointment">Add appointment</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="mark_taken">Mark taken</string>
+    <string name="reminder_channel_name">Medication Reminders</string>
+    <string name="reminder_channel_desc">Reminds you to take your medications on time</string>
+</resources>
